@@ -1,2 +1,2 @@
-# assets
+# Assets
 Assets for VibeStream

@@ -3,14 +3,20 @@
         "genre": "piano",
         "mood": "day",
         "path": "../app/assets/megalovania.wav",
-        "number": 1,
-        "name": "Megalovania"
+        "name": "Megalovania",
+        "serial": {
+          "locator": "demo",
+          "number": 1
+        }
     },
     {
         "genre": "piano",
         "mood": "day",
-        "path": "../app/assets/theLick.wav",
-        "number": 2,
-        "name": "theLick"
-    }
+        "path": "../app/assets/megalovania.wav",
+        "name": "Megalovania",
+        "serial": {
+          "locator": "demo",
+          "number": 2
+        }
+    },
 ]

@@ -7,6 +7,10 @@
         "serial": {
           "locator": "demo",
           "number": 1
+        },
+        "links": {
+          "youtube": "",
+          "bandcamp": ""
         }
     },
     {
@@ -17,6 +21,10 @@
         "serial": {
           "locator": "demo",
           "number": 2
+        },
+        "links": {
+          "youtube": "",
+          "bandcamp": ""
         }
     }
 ]

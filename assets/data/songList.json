@@ -8,6 +8,12 @@
           "locator": "demo",
           "number": 1
         },
+        "information": {
+          "name": "Megalovania,
+          "author": "",
+          "album": "demo",
+          "length": ""
+        },
         "links": {
           "youtube": "",
           "bandcamp": ""
@@ -17,10 +23,15 @@
         "genre": "piano",
         "mood": "day",
         "path": "https://assets-vibestream.netlify.app/assets/audio/songs/demo/theLick.wav",
-        "name": "The Lick",
         "serial": {
           "locator": "demo",
           "number": 2
+        },
+        "information": {
+          "name": "The Lick",
+          "author": "",
+          "album": "demo",
+          "length": ""
         },
         "links": {
           "youtube": "",

@@ -2,7 +2,7 @@
     {
         "genre": "piano",
         "mood": "day",
-        "path": "https://assets-vibestream.netlify.app/assets/audio/songs/demo/megalovania.wav",
+        "path": "https://assets.vibestream.online/assets/audio/songs/demo/megalovania.wav",
         "name": "Megalovania",
         "serial": {
           "locator": "demo",
@@ -22,7 +22,7 @@
     {
         "genre": "piano",
         "mood": "day",
-        "path": "https://assets-vibestream.netlify.app/assets/audio/songs/demo/theLick.wav",
+        "path": "https://assets.vibestream.online/assets/audio/songs/demo/theLick.wav",
         "serial": {
           "locator": "demo",
           "number": 2

@@ -10,13 +10,13 @@
         },
         "information": {
           "name": "Megalovania",
-          "author": "",
+          "author": "no author",
           "album": "demo",
-          "length": ""
+          "length": "no length"
         },
         "links": {
-          "youtube": "",
-          "bandcamp": ""
+          "youtube": "no link",
+          "bandcamp": "no link"
         }
     },
     {
@@ -29,13 +29,13 @@
         },
         "information": {
           "name": "The Lick",
-          "author": "",
+          "author": "no author",
           "album": "demo",
-          "length": ""
+          "length": "no length"
         },
         "links": {
-          "youtube": "",
-          "bandcamp": ""
+          "youtube": "no link",
+          "bandcamp": "no link"
         }
     }
 ]

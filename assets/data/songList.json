@@ -3,10 +3,6 @@
         "genre": "piano",
         "mood": "day",
         "path": "https://assets.vibestream.online/assets/audio/songs/demo/megalovania.wav",
-        "serial": {
-          "locator": "demo",
-          "number": 1
-        },
         "information": {
           "name": "Megalovania",
           "author": "no author",
@@ -22,10 +18,6 @@
         "genre": "piano",
         "mood": "day",
         "path": "https://assets.vibestream.online/assets/audio/songs/demo/theLick.wav",
-        "serial": {
-          "locator": "demo",
-          "number": 2
-        },
         "information": {
           "name": "The Lick",
           "author": "no author",
